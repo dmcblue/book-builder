@@ -20,4 +20,6 @@
 - Table of Contents
 - Page numbers
 - Auto-generate Index, Table of Contents
+- Footnotes
+- Global words
 

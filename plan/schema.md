@@ -1,10 +1,12 @@
 # Schema of a Book
 
 Book
+- page number?
 - Table of Contents
 - Contents
 	- Section
 		- Section
+		- page number
 		- Title
 		- Text
 			- Footnote
@@ -13,6 +15,7 @@ Book
 			- Quotation block
 			- Paragraph
 			- Table
+			- page number
 - Glossary
 - Footnotes
 - Reference Section
