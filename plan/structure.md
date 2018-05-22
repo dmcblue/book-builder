@@ -33,7 +33,7 @@ It may best to just use Git directly to handle this.
 - XML and Diff
 
 
-## Backend / Server Side
+### Backend / Server Side
 
 - Golang
 	- I've always wanted to actually use it for something
@@ -48,7 +48,7 @@ It may best to just use Git directly to handle this.
 - Node
 	- ...
 
-## Frontend
+### Frontend
 
 - Angular
 	- Works well, well tested
@@ -58,3 +58,6 @@ It may best to just use Git directly to handle this.
 	- Redux
 - Vue
 	- Light weight
+
+### General
+- UTF8 Everywhere

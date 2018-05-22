@@ -12,9 +12,12 @@
 - Search for Proper Noun list with misspellings
 - Compare with image?
 - OCR?
+- Export -> XML
+- Export -> epub, mobi, html, etc
 
 ## Structural
 - Glossary
 - Table of Contents
 - Page numbers
+- Auto-generate Index, Table of Contents
 
