@@ -30,7 +30,9 @@ It's probably best not to assume this to be a performance power house out of the
 - Git
 	- The editing structure will need things like branches and pull requests. 
 It may best to just use Git directly to handle this.  
+	- https://stackoverflow.com/a/610315
 - XML and Diff
+
 
 
 ### Backend / Server Side
